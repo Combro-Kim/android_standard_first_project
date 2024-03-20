@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">standard_base1</string>
+    <string name="title">Own Dream House</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam maecenas mi non sed ut odio. Non, justo, sed facilisi et. Eget viverra urna, vestibulum egestas faucibus egestas. Sagittis nam velit volutpat eu nunc.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="sign_up_title">Welcome Back</string>
+    <string name="sign_up_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam maecenas mi non sed ut odio. Non, justo, sed facilisi et. </string>
+    <string name="id_hint"><![CDATA[Username, Email & Phone Number]]></string>
+    <string name="pw_hint">Password</string>
+    <string name="forgot_pw">Forgot Password ?</string>
+    <string name="or_sign_up_with">Or Sign up With</string>
+</resources>
